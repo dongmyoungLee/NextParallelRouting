@@ -143,6 +143,10 @@ ul {
   align-items: center;
 }
 
+.fullscreen-image img {
+  width: 100%;
+}
+
 .news-article img {
   width: 7rem;
   margin-bottom: 1rem;
